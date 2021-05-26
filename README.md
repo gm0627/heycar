@@ -28,13 +28,20 @@ Scenarios tested:
 Ideas for further improvement:
 ==============================
 If I had more time I would have:
+
 •	implemented a solution using microservices or serverless architecture using AWS Lambda.
+
 •	implemented a complete end-to-end solution i.e., the front-end as well as the backend.
+
 •	implemented CI/CD process using OCI Containers - Docker.
+
 •	implemented more API validation and integration test cases.
+
 
 Architecture and tools:
 ==========================
 •	The requirement was simple and hence used Layered architecture to solve the problem statement.
+
 •	The Microservices approach would have been appropriate if the given resources had complex business use-cases.
+
 •	Tools used: Spring Boot, MySQL, JUnit4, Postman, and Swagger.

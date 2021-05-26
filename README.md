@@ -13,11 +13,16 @@ Executed tests and results:
 Automated test cases were built and verified using JUnit4.
 Scenarios tested:
 •	Test 01: POST "/dealers"
+
 •	Test 02: GET "/dealers"
+
 •	Test 03: GET "/dealer/{dealerID}"
+
 •	Test 04: POST "/upload_csv/{dealerID}"
+
 •	Test 05: POST "/vehicle_listing/{dealerID}"
-•	Test 06: GET "/search?"
+
+•	Test 06: GET "/search?make=mercedes&model=a 180&year=2014&color=black"
 
 
 Ideas for further improvement:
